@@ -1,23 +1,3 @@
----
-name: Bug report
-about: For Stock_sim
-title: "[BUG]"
-labels: bug
-assignees: Bakseongung
-
----
-
----
-name: "\U0001F41EBug"
-about: 버그 리포트 템플릿
-title: ''
-labels: ''
-assignees: ''
- 
----
- 
-<!-- 작성하지 않은 항목은 모두 지워주세요 -->
- 
 ## 🐞버그 설명
 <!-- 어떤 상황에서 어떤 문제가 발생했는지 구체적으로 작성해주세요 -->
  
