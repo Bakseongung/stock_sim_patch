@@ -1,4 +1,8 @@
 # stock_sim_patch
+```
+현재 X
+write around, lazy loading, 페이지 무한 로딩 문제로 점검중..
+```
 stock_sim/v/0.3.0 : 
 https://stockredo.duckdns.org <br> 
 http://stockredo.duckdns.org <br>
@@ -7,7 +11,7 @@ http://stockredo.duckdns.org <br>
 #### O
 1. 자동 SSL 인증 갱신 시스템: certbot.timer가 하루 두 번씩 체크 중 <br>
 2. 이제 https에서도 사용 가능 (SSL 인증서 적용) <br>
-3. stockredo.duckdns.org : nginx무한로딩문제 수정 <br><br>
+<br><br>
 
 #### X
 로그인 (구글/카카오) O, <br>
