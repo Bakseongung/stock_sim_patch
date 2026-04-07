@@ -1,11 +1,6 @@
-# stock_sim_patch
-```
-현재 X
-write around, lazy loading, 페이지 무한 로딩 문제로 점검중..
-```
-stock_sim/v/0.3.0 : 
-https://stockredo.duckdns.org <br> 
-http://stockredo.duckdns.org <br>
+# STOCKREDO_patch
+## STOCKREDO <br>
+https://stockredo.duckdns.org <br>
 
 ### 현재 반영중인 내용(for v4)
 #### O
