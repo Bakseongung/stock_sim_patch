@@ -1,4 +1,4 @@
-# STOCKREDO v1.0.0
+# StockRedo v1.0.0
 > 한국 주식 가상거래 시뮬레이션 플랫폼 <br>
 > https://stockredo.duckdns.org
 
