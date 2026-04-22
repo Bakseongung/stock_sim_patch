@@ -1,6 +1,6 @@
 # StockRedo v1.0.0
 ### 한국 주식 가상거래 시뮬레이션 플랫폼 <br>
-#### https://stockredo.duckdns.org
+#### www.stockredo.com
 #
 <img width="1419" height="716" alt="1" src="https://github.com/user-attachments/assets/1ff51ed8-366d-4498-ac6b-3fd879d008b5" />
 <img width="1413" height="717" alt="2" src="https://github.com/user-attachments/assets/4cb2c824-48e0-43af-a5ec-e2c766d78754" />
